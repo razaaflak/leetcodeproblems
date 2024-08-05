@@ -11,5 +11,5 @@ class Solution(object):
 
         return sum
         
-s = Solution()    
-print(s.romanToInt("LVIII"))
+for i in range(10,-1,-1):
+    print(i)
